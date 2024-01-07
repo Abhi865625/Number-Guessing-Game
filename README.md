@@ -1,1 +1,6 @@
 # Number-Guessing-Game
+
+![image](https://github.com/Abhi865625/Number-Guessing-Game/assets/93569162/a31d3854-d8a2-4b75-897e-d09cfd69af45)
+
+![image](https://github.com/Abhi865625/Number-Guessing-Game/assets/93569162/44180a4b-3187-4525-ba91-d9ddec6b79a5)
+
